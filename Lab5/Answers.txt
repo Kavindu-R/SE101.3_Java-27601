@@ -1,0 +1,9 @@
+1.) No
+     All the variables in the interface are by deafult public and static
+      
+2.) No
+      All the methods in interfaces are by default abstract
+
+3.)No
+     interface declared variables are by default final variable values. Therefore we cannot change values in it  
+     
